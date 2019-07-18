@@ -1,6 +1,6 @@
 ASSIGNMENT 2
 
-Please ensure that there are five files in the folder.
+Please ensure that there are five(excluding assignment2.pdf) files in the folder.
 
 HOW TO RUN:
 ->Paste the cnf code in the file "input.txt".
